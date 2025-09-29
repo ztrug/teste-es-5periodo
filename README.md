@@ -1,4 +1,3 @@
-Faca um readme agora com essas informacoes
 🧪 Princípios de Testes de Software e Code Smells
 Este repositório contém exemplos práticos e documentação sobre princípios de testes de software e identificação de code smells em testes, baseado no livro "Engenharia de Software Moderna" e outras fontes especializadas.
 
