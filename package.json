@@ -1,0 +1,20 @@
+{
+  "name": "sistema-de-agendamentos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "test:watch": "vitest",
+    "coverage:html": "vitest run --coverage && open coverage/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^3.2.4",
+    "tsx": "^4.20.5",
+    "vitest": "^3.2.4"
+  }
+}
